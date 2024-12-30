@@ -1,0 +1,1 @@
+This is a cpp program which finds whether a number given by the user is there in user given sorted array or not by using binary search, The algorithm of the binary search uses recursion which is sort of an innovative idea.
